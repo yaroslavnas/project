@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader\Loader.csproj", "{69e6c5b3-4042-4c6a-9df1-977f47159107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderScreens", "Loader\LoaderScreens\LoaderScreens.csproj", "{441e9cf6-290f-4e87-baf7-09a83bac4b2b}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E6C5B3-4042-4C6A-9DF1-977F47159107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E6C5B3-4042-4C6A-9DF1-977F47159107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E6C5B3-4042-4C6A-9DF1-977F47159107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E6C5B3-4042-4C6A-9DF1-977F47159107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441E9CF6-290F-4E87-BAF7-09A83BAC4B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441E9CF6-290F-4E87-BAF7-09A83BAC4B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441E9CF6-290F-4E87-BAF7-09A83BAC4B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441E9CF6-290F-4E87-BAF7-09A83BAC4B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,75 @@
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Loader.Screens.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Loader.Screens.pdb
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\LoaderScreens.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Screen_1.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\SketchStyles.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Screen_1.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens_MarkupCompile.cache
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.g.resources
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.pdb
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\UserControl1.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\___Button___Button2_Control.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\UserControl1.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\___Button___Button2_Control.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\ResourceDictionary1.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\UserControl2.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\UserControl3.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\UserControl2.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\UserControl3.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens_MarkupCompile.lref
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Screen_2.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Screen_2.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Inf.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\LoaderScreens\obj\Debug\Inf.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Loader.Screens.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Loader.Screens.pdb
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\LoaderScreens.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Inf.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\ResourceDictionary1.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Screen_2.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\SketchStyles.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\UserControl1.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\UserControl2.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\UserControl3.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\___Button___Button2_Control.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Inf.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Screen_1.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Screen_2.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\UserControl1.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\UserControl2.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\UserControl3.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\___Button___Button2_Control.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens_MarkupCompile.cache
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens_MarkupCompile.lref
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Screen_1.baml
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.g.resources
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.dll
+C:\Users\Станислав\Desktop\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.pdb
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Loader.Screens.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Loader.Screens.pdb
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\LoaderScreens.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Inf.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\ResourceDictionary1.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Screen_2.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\SketchStyles.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\UserControl1.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\UserControl2.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\UserControl3.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\___Button___Button2_Control.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Inf.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Screen_1.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Screen_2.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\UserControl1.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\UserControl2.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\UserControl3.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\___Button___Button2_Control.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens_MarkupCompile.cache
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens_MarkupCompile.lref
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Screen_1.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.g.resources
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\LoaderScreens\obj\Debug\Loader.Screens.pdb

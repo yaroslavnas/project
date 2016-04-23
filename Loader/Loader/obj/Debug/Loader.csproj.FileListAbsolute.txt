@@ -1,0 +1,159 @@
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Loader.exe
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Loader.pdb
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Loader.Screens.pdb
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\App.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\App.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\Loader_MarkupCompile.cache
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\Loader.g.resources
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\Loader.exe
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\Loader\Loader\obj\Debug\Loader.pdb
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\Loader.exe
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\Loader.pdb
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Loader.exe
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Loader.pdb
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Loader.Screens.pdb
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\App.baml
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\App.g.cs
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\Loader_MarkupCompile.cache
+C:\Users\Станислав\Desktop\Loader\Loader\obj\Debug\Loader.g.resources
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Loader.exe
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Loader.pdb
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Loader.Screens.pdb
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\App.baml
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\Loader_MarkupCompile.cache
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\Loader.g.resources
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\Loader.exe
+C:\Users\USER\Downloads\2222\Loader\Loader\obj\Debug\Loader.pdb
